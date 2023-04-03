@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ds-praveenkumar
-- 👀 I’m interested in Data Science
+- 👀 I’m passionate in Data Science
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on Commertial Projects
 - 📫 How to reach me kr[dot]praveen399[at]gmail[dot]com
