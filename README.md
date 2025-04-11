@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ds-praveenkumar
 - 👀 I’m passionate in Data Science
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m playing with AWS 
 - 💞️ I’m looking to collaborate on Commertial Projects
 - 📫 How to reach me kr[dot]praveen399[at]gmail[dot]com
 
